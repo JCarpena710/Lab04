@@ -113,7 +113,7 @@ namespace Lab04
                 command.CommandType = CommandType.StoredProcedure;
 
                 SqlParameter parameter1 = new SqlParameter();
-                parameter1.Value = txtNombre.Text.Trim();
+                parameter1.Value = txtNombre2.Text.Trim();
                 parameter1.ParameterName = "@FirstName";
                 parameter1.SqlDbType = SqlDbType.VarChar;
 

@@ -76,18 +76,18 @@
             // 
             // txtNombre2
             // 
-            this.txtNombre2.Location = new System.Drawing.Point(368, 84);
+            this.txtNombre2.Location = new System.Drawing.Point(290, 84);
             this.txtNombre2.Name = "txtNombre2";
             this.txtNombre2.Size = new System.Drawing.Size(199, 22);
             this.txtNombre2.TabIndex = 4;
             // 
             // btnBuscarDataReader
             // 
-            this.btnBuscarDataReader.Location = new System.Drawing.Point(574, 84);
+            this.btnBuscarDataReader.Location = new System.Drawing.Point(495, 84);
             this.btnBuscarDataReader.Name = "btnBuscarDataReader";
-            this.btnBuscarDataReader.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscarDataReader.Size = new System.Drawing.Size(154, 23);
             this.btnBuscarDataReader.TabIndex = 5;
-            this.btnBuscarDataReader.Text = "Buscar2";
+            this.btnBuscarDataReader.Text = "BuscarDataReader";
             this.btnBuscarDataReader.UseVisualStyleBackColor = true;
             this.btnBuscarDataReader.Click += new System.EventHandler(this.btnBuscarDataReader_Click);
             // 
